@@ -1,4 +1,5 @@
 # ServicesDeepDive
+![image](https://github.com/user-attachments/assets/d39b348d-80df-404b-af87-f9e212341d79)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
 
